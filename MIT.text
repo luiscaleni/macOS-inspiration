@@ -19,7 +19,12 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 ----------------------------------------------------------------------
-This web application used the code of bramus only for the routing of the site in question.
-The .htaccess code is for part of the video uploaded to youtube on the VidaMRR channel.
+This web application used the code of bramus only for the routing of the site 
+in question. The .htaccess code is for part of the video uploaded to youtube 
+on the VidaMRR channel.
 
-This web application was created, except for what is mentioned, entirely by Luis Caleni; taking as consulting pages like satckoverflow, among others. its creation is for the purpose of showing a portfolio, THE CODE SHOULD NOT BE USED WITHOUT DUE ACKNOWLEDGMENT IN SUCH PROJECTS under the publication of the link to this repository.
+This web application was created, except for what is mentioned, entirely by
+Luis Caleni; taking as consulting pages like satckoverflow, among others. its
+creation is for the purpose of showing a portfolio, THE CODE SHOULD NOT BE USED
+WITHOUT DUE ACKNOWLEDGMENT IN SUCH PROJECTS under the publication of the link
+to this repository.
