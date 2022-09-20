@@ -1,0 +1,17 @@
+{
+    "name": "luis/project",
+    "autoload": {
+        "psr-4": {
+            "Luis\\Project\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luiscaleni",
+            "email": "77455357+luiscaleni@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "^1.6"
+    }
+}

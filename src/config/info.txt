@@ -1,0 +1,1 @@
+Crear constantes para mandarlas a llamar en otro archivo dentro de nuestra aplicacion
