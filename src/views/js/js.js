@@ -11,12 +11,7 @@ setTimeout(() => {
     });
 }, 2000);
 
-//
-/*
-setTimeout(() => {
-    $('.bar-Block').css('margin-bottom','-100px');
-}, 0);*/
-
+//Aparicion dock
 setTimeout(() => {
     $('.dockCont').fadeIn(1000, function(){
         $('.dockCont').css('bottom','10px');

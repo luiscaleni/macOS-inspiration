@@ -512,9 +512,9 @@ header ul a:hover {
   /**/
 }
 .bar-Block .dockCont {
-  bottom: -100px;
   width: auto;
   cursor: pointer;
+  bottom: -100px;
   padding: 0px 5px;
   border-radius: 10px;
   border: 1px solid rgba(228, 228, 228, 0.8);
