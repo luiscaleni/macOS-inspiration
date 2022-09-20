@@ -16,9 +16,10 @@ setTimeout(() => {
 setTimeout(() => {
     $('.bar-Block').css('margin-bottom','-100px');
 }, 0);*/
+
 setTimeout(() => {
-    $('.bar-Block').fadeIn(1000, function(){
-        $('.bar-Block').css('bottom','10px');
+    $('.dockCont').fadeIn(1000, function(){
+        $('.dockCont').css('bottom','10px');
     });
     $('.header').fadeIn(1000, function(){
         $('.header').css('top','27px');

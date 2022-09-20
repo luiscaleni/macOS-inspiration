@@ -23,7 +23,7 @@ class Head{
         <body>
         <div class="load" id="load">
             <img src="src/views/assets/img/apple_logo.ico" id="load-img"/>
-            <p id="load-p">macOS</p>
+            <p id="load-p">macOS <i>by Luis Caleni</i></p>
             <div class="loader" id="loader">
             <span></span>
             </div>
